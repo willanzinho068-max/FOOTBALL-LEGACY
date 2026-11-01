@@ -1,0 +1,6 @@
+{
+  "appId": "com.footballlegacy.app",
+  "appName": "FOOTBALL LEGACY",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
